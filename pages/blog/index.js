@@ -12,7 +12,7 @@ export default function Blog() {
       <Seo
         title="Blog"
         description="Artículos sobre optimización web, SEO, buenas prácticas y rendimiento."
-        url="http://localhost:3000/blog"
+        url="https://mi-proyecto-seo-1-6zbj.onrender.com/blog"
         image="/images/blog-og.png"
       />
 

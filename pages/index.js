@@ -10,7 +10,7 @@ export default function Home() {
       <Seo
         title="Inicio"
         description="Página principal - Optimización y SEO con Next.js. Aprende cómo mejorar rendimiento y presencia en buscadores."
-        url="http://localhost:3000/"
+        url="https://mi-proyecto-seo-1-6zbj.onrender.com/"
         image="/images/seo-image.png"
       />
 

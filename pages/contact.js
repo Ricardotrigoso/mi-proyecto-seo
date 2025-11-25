@@ -6,7 +6,7 @@ export default function Contact() {
       <Seo
         title="Contacto"
         description="Ponte en contacto para consultas sobre SEO y optimización web."
-        url="http://localhost:3000/contact"
+        url="https://mi-proyecto-seo-1-6zbj.onrender.com/contact"
         image="/images/contact-og.png"
       />
 
